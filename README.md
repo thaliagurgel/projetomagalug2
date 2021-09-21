@@ -1,11 +1,4 @@
-Projeto criado para o desenvolvimento do Desafio Final do curso de Google Cloud Plataform da Gama Academy em parceria com a Magazine Luiza 
-
-Desenvolvido por:
-Ana Carolina Gonçalves Barros Nogueira
-Ana Carolina Oliveira Guilherme Costa
-Mariana Batista
-Mariana Zubi da Silva
-Thalia Gurgel
+Projeto criado para o desenvolvimento do Desafio Final do curso de Google Cloud Plataform da Gama Academy em parceria com a Magazine Luiza.
 
 Instruções para configurar o ambiente e rodar o projeto:
 
